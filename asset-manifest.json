@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learn-git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/learn-git/static/js/main.e8c17c7d.chunk.js",
+    "main.js.map": "/learn-git/static/js/main.e8c17c7d.chunk.js.map",
+    "runtime-main.js": "/learn-git/static/js/runtime-main.802ee105.js",
+    "runtime-main.js.map": "/learn-git/static/js/runtime-main.802ee105.js.map",
+    "static/js/2.82f639e7.chunk.js": "/learn-git/static/js/2.82f639e7.chunk.js",
+    "static/js/2.82f639e7.chunk.js.map": "/learn-git/static/js/2.82f639e7.chunk.js.map",
+    "static/js/3.9fbaa076.chunk.js": "/learn-git/static/js/3.9fbaa076.chunk.js",
+    "static/js/3.9fbaa076.chunk.js.map": "/learn-git/static/js/3.9fbaa076.chunk.js.map",
+    "index.html": "/learn-git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/learn-git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.82f639e7.chunk.js.LICENSE.txt": "/learn-git/static/js/2.82f639e7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/learn-git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.802ee105.js",
+    "static/js/2.82f639e7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e8c17c7d.chunk.js"
+  ]
+}
